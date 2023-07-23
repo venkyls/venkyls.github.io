@@ -10,6 +10,8 @@ Location: Ilkal
 LinkedIn: [linkedin.com/in/venkatesh-sheshappanavar-603300174](https://www.linkedin.com/in/venkatesh-sheshappanavar-603300174)  
 GitHub: [github.com/venkyls](https://github.com/venkyls)
 
+https://github.com/venkyls/venkyls.github.io/blob/main/MakePassportPhoto.jpg
+
 ## EDUCATION
 
 **B.E - Computer Science**  
